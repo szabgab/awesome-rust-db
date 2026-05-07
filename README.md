@@ -14,6 +14,7 @@ Collecting awesome Rust projects related to databases.
 ## 🗂️ Database implementations
 
 - [SurrealDB](https://surrealdb.com/)
+- [sled](https://crates.io/crates/sled) (Latest release 2021.09.12)
 
 ## 📦 Lists on Crates.io
 
