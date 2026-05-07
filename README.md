@@ -20,3 +20,10 @@ Collecting awesome Rust projects related to databases.
 - [Database implementations](https://crates.io/categories/database-implementations)
 - [Database interfaces](https://crates.io/categories/database)
 
+
+## 🖼️ Projects with live deployed service
+
+Probably the best way to learn how to use a database is by looking at projects that are providing service.
+
+- [crates.io](https://crates.io/) uses [diesel](https://crates.io/crates/diesel) for database access. [GitHub](https://github.com/rust-lang/crates.io/)  (axum 0.8.9)
+
