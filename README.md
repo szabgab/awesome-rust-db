@@ -15,6 +15,7 @@ Collecting awesome Rust projects related to databases.
 
 - [SurrealDB](https://surrealdb.com/)
 - [sled](https://crates.io/crates/sled) (Latest release 2021.09.12)
+- [FalkorDB](https://www.falkordb.com/) is being rewritten in Rust. See [repository](https://github.com/FalkorDB/falkordb-rs-next-gen)
 
 ## 📦 Lists on Crates.io
 
