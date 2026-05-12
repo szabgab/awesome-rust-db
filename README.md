@@ -23,6 +23,51 @@ Collecting awesome Rust projects related to databases.
 - [native_db](https://crates.io/crates/native_db) Drop-in embedded database (2025.07.08)
 - [turso](https://crates.io/crates/turso) A high-performance, SQLite-compatible database library for Rust. (2026.04.02)
 
+## List by Oliver M.Seifert
+
+(to be integrated)
+
+- [atomic-server](https://crates.io/crates/atomic-server)  graph database server. [atomic-server](https://atomicserver.eu/). (2024.10.07)
+- [cozo](https://crates.io/crates/cozo) A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms. [CozoDB](https://www.cozodb.org/) (2023.12.11)
+- Curvine
+- Darkbird
+- Databend
+- EdgeDB
+- Garage
+- HelixDB
+- Hiqlite
+- IndraDB
+- InfluxDB iox
+- LanceDB
+- Lucid
+- Materialize
+- Meilisearch
+- NativeDB
+- Neon
+- Oxigraph
+- ParadeDB
+- ParityDB
+- PumpkinDB
+- Qdrant
+- Quickwit
+- QuillSQL
+- ReadySet
+- RisingWave
+- Rsedis
+- Ruvector
+- Skytable
+- Sled
+- SurrealDB
+- TerminusDB
+- Tikv
+- ToyDB
+- TrailBase
+- Tsink
+- Turso
+- USearch
+- Valentinus
+- WooriDB
+
 ## Not Database
 
 - [WorkTable](https://crates.io/crates/WorkTable) is in-memory storage. (2026.02.09)
@@ -32,6 +77,9 @@ Collecting awesome Rust projects related to databases.
 - [Database implementations](https://crates.io/categories/database-implementations)
 - [Database interfaces](https://crates.io/categories/database)
 
+## 📋 Lists
+
+* [Rust Database list of Vitaliy Yermolenko](https://github.com/stars/vitali2y/lists/rust-database)
 
 ## 🖼️ Projects with live deployed service
 
