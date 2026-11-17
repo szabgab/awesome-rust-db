@@ -13,6 +13,7 @@ Collecting awesome Rust projects related to databases.
 
 ## 🗂️ Database implementations
 
+- [Axonio](https://github.com/hackcat29/ClawDB) - Rust database engine for persistent agent memory with vector search, knowledge graph retrieval, and memory branching.
 - [InfluxDB](https://www.influxdata.com/) - [repository](https://github.com/influxdata/influxdb) - [crate](https://crates.io/crates/influxdb) (2026.02.19)
 - [SurrealDB](https://surrealdb.com/) - [crate](https://crates.io/crates/surrealdb) (2026.03.27)
 - [sled](https://crates.io/crates/sled) (Latest release 2021.09.12)
